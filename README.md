@@ -1,4 +1,4 @@
-# Machine Learing Models 
+# Machine Learing Models&NLP & Deep Learning Project  
 This repository Includes 16 Machine Learning Models as below <p>
 1. Credit Card Fraud Detection <p>
 2. Heart Disease prediction <p>
@@ -15,4 +15,6 @@ This repository Includes 16 Machine Learning Models as below <p>
 13. Gold Price Prediction <p>
 14. Loan Status Prediction <p>
 15. Wine Quality Prediction <p>
-16. Car Price Prediction 
+16. Car Price Prediction  <p>
+17. Churn Rate Prediction with Random Forest  <p>
+18. Churn Rate Prediction with ANN  <p>
