@@ -18,3 +18,5 @@ This repository Includes 16 Machine Learning Models as below <p>
 16. Car Price Prediction  <p>
 17. Churn Rate Prediction with Random Forest  <p>
 18. Churn Rate Prediction with ANN  <p>
+19. CNN with Pytorch and tesnorflow 
+20. Object Detection - Gun, Pistol Detector - Scaled-YOLOv4
