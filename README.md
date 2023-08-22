@@ -20,3 +20,5 @@ This repository Includes 16 Machine Learning Models as below <p>
 18. Churn Rate Prediction with ANN  <p>
 19. CNN with Pytorch and tesnorflow 
 20. Object Detection - Gun, Pistol Detector - Scaled-YOLOv4
+
+Join yblmeet.webex.com/meet/vivek.jadhav2
